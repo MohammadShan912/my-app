@@ -1,0 +1,25 @@
+SHORTCUTS •✔•💯🔥
+
+• NPM
+npm install react-app my-app
+npm init react-app my-app
+
+npm start
+
+npm i -g npx
+npx create-react-app my-app2
+
+npm start
+
+npm run build
+
+• VITE
+cd my-project
+
+npm install
+npm run dev
+
+
+if node modules are deleted you can download it again by typing
+npm install / npm i
+ 

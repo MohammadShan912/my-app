@@ -1,0 +1,5 @@
+React Shortcuts
+
+- rfec (react function export component)
+- rfc (react function component)
+- rafce (react arrow function export component)

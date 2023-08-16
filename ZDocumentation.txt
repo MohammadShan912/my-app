@@ -1,0 +1,12 @@
+REACTJS DOCUMENTATION •✔•💯🔥
+
+Thursday - 03/08/2023
+• JSX
+• Adding Bootstrap in React. 
+• Props and PropType
+
+Friday - 04/08/2023
+
+• UseState
+• Handling Event
+
